@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,I'm Hector.
+- 🌱 I’m currently learning react and typescript. ...
 
 ![booms21](https://github-readme-stats.vercel.app/api?username=HectorJiang&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
 <!--
