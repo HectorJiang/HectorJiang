@@ -2,6 +2,10 @@
 - 🌱 I’m currently lying flat.
 
 ![booms21](https://github-readme-stats.vercel.app/api?username=HectorJiang&show_icons=true&include_all_commits=true?count_private=true?include_all_commits=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HectorJiang)](https://github.com/HectorJiang/github-readme-stats)
+
+
 <!--
 **HectorJiang/HectorJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
