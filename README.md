@@ -14,7 +14,7 @@ I'm a full-stack developer with expertise in a wide range of technologies. I enj
 - **ShadcnUI**  
 
 **Backend:**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="16" height="16" /> **NestJS**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> **JavaScript**: NestJS  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin, GoZero  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> **Java**: Spring Cloud  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="16" height="16" /> **.NET Core**  
