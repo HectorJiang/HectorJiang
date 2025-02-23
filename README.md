@@ -18,11 +18,10 @@ I'm a full-stack developer with expertise in a wide range of technologies. I enj
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin, GoZero  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> **Java**: Spring Cloud  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="16" height="16" /> **.NET Core**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="16" height="16" /> **Laravel**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16" /> **ThinkPHP**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16" /> **PHP**: Laravel, ThinkPHP
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" /> **Python**: Django, Flask  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="16" height="16" /> **Rust**: Rocket, Wrap, Axum  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" width="16" height="16" /> **Ruby on Rails**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="16" height="16" /> **Rust**: Rocket, Wrap, Axum  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="16" height="16" /> **Ruby**:  Ruby on Rails
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="16" height="16" /> **C++**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elixir/elixir-original.svg" width="16" height="16" /> **Elixir**  
 
