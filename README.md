@@ -8,16 +8,12 @@ I'm a seasoned **full-stack developer** with extensive experience in building **
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /> **React, Next.js**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="16" height="16" /> **Vue,Nuxt.js**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="16" height="16" /> **Angular**   
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" /> **UI:Figma,TailwindCSS,ShadcnUI,PrimeReact/Vue/Angular,AntDesign**
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" /> **UI:Figma,ShadcnUI,AntDesign,Prime**
 **Backend:**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> **JavaScript**: NestJS  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin, GoZero  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> **Java**: Spring Cloud  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="16" height="16" /> **.NET Core**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="16" height="16" /> **PHP**: Laravel, ThinkPHP  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="16" height="16" /> **Python**: Django, Flask  
-
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="16" height="16" /> **Java**: SpringBoot  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="16" height="16" /> **.NET**:  .NETCore
 
 **Desktop Applications:**   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="16" height="16" /> **Electron**  
@@ -29,7 +25,9 @@ I'm a seasoned **full-stack developer** with extensive experience in building **
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16" /> **iOS**: Swift/Objective-C  
 
 **Mini Program**
-- Taro,UniApp
+- Taro
+
+
 #### 💼 **What I Bring to the Table:**
 - **End-to-End Development:** From concept to deployment, I handle every stage of the development process, ensuring seamless integration and optimal performance.
 - **Cross-Platform Expertise:** Whether it's web, mobile, or desktop, I have the skills to deliver consistent and high-quality applications across all platforms.
