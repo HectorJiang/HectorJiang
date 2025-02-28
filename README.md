@@ -9,7 +9,7 @@ I'm a seasoned **full-stack developer** with extensive experience in building **
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="16" height="16" /> **Vue,Nuxt.js**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="16" height="16" /> **Angular**   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" /> **UI:Figma,TailwindCSS,ShadcnUI,PrimeReact/Vue/Angular,AntDesign**
-- 
+
 **Backend:**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> **JavaScript**: NestJS  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin, GoZero  
