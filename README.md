@@ -22,8 +22,8 @@ I'm a seasoned **full-stack developer** with extensive experience in building **
 **Mobile Applications:**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /> **React Native**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="16" height="16" /> **Flutter**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" /> **Android**: Java/Kotlin  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16" /> **iOS**: Swift/Objective-C  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="16" height="16" /> **Android**: Kotlin  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16" /> **iOS**: Swift
 
 **Mini Program**
 - Taro
