@@ -3,6 +3,8 @@
 I'm a seasoned **full-stack developer** with extensive experience in building **scalable, efficient, and user-friendly applications** across **web, mobile, and desktop platforms**. Over the years, I've worked on a diverse range of projects spanning multiple industries, including **e-commerce, fintech, healthcare, education, and more**. My ability to adapt to different tech stacks and deliver high-quality solutions makes me a reliable partner for your next project.
 
 #### 🛠️ **Technologies I Work With:**
+**UI**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="16" height="16" /> **Figma**
 
 **Frontend:**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="16" height="16" /> **React, Next.js**  
