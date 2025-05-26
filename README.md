@@ -17,8 +17,8 @@ I'm a seasoned **full-stack developer** with extensive experience in building **
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="16" height="16" /> **iOS**: Swift
 
 **Backend:**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="16" height="16" /> **JavaScript**: NestJS,ExpressJS
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="16" height="16" /> **Go**: Gin
 
 **Desktop Applications:**   
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="16" height="16" /> **Electron**  
